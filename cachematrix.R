@@ -2,7 +2,7 @@
 ## the inverse of a matrix so that it can be recalled later
 ## without the need to recalculate it.
 
-## this function enbales you to set and get the matrix and to 
+## this function enables you to set and get the matrix and to 
 ## set and get the matrix's inverse.
 
 makeCachematrix<-function(x=matrix()){
